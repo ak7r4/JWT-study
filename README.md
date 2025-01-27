@@ -10,4 +10,4 @@ Usage: python jwt-gen.py
 ### jwt-crack.py
 Can help you to crack real jwt tokens
 <br>
-Usage: python crack_jwt.py <JWT_TOKEN> <WORDLIST_PATH> [ALGORITHM]
+Usage: python crack_jwt.py `JWT_TOKEN` `WORDLIST_PATH` [ALGORITHM]
